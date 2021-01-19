@@ -1,5 +1,6 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
+const readme = "readme.md"
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // ARRAY OF QUESTIONS FOR USER
@@ -76,7 +77,7 @@ function generateFile (fileName, data) {
 
 // FUNCTION TO INITIALIZE PROGRAM
 function init(){
-    inquirer.prompt(questions).then(userdata => generateFile(readme.md, userdata));
+    inquirer.prompt(questions).then(userdata => generateFile(readme, userdata));
 }
 
 // CALL TO INITIALIZE PROGRAM
