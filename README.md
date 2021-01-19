@@ -13,7 +13,7 @@ The motivation behind this project was to use Node.js to create a README generat
 ## Code Example
 Here is an example of what is created with the README generator:
 
-![Readme Demo]()
+![Readme Demo](./Assets/ReadMeDemo.png)
 
 ## Features
 * Command-line prompts via Node
@@ -31,4 +31,4 @@ Answer prompted questions to generate a professional README.md file for your pro
 This project is licensed under the terms of the MIT license.
 
 ## Link
-* Demo URL: ()
+* Demo URL: (https://drive.google.com/file/d/19rhsaAbFl6V_eV78cac0u0MIkkCfhb4k/view)
