@@ -13,7 +13,9 @@
     6. [Questions](#Questions)
 
     ## Installation
-    1). Open your terminal and clone repository to your local computer. 2). Change directory into "Develop" folder where index.js file is located. 3). Type "node index.js" into your terminal and run application.
+    1). Open your terminal and clone repository to your local computer. 
+    2). Change directory into "Develop" folder where index.js file is located. 
+    3). Type "node index.js" into your terminal and run application.
 
     ## Usage
     Answer prompted questions to generate a professional README.md file for your project.
